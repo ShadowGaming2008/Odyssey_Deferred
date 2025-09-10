@@ -1,0 +1,66 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "am:junglefog"
+    },
+    "distance": {
+      "air": {
+        "fog_start": 0.8,  
+        "fog_end": 0.9,     
+        "fog_color": "#67CB40",
+        "render_distance_type": "render"
+      },
+      "water": {
+        "fog_start": 0.0,
+        "fog_end": 160.0,
+        "fog_color": "#67CB40",
+        "render_distance_type": "fixed"
+      },
+      "weather": {
+        "fog_start": 0.2, 
+        "fog_end": 0.9,     
+        "fog_color": "#60B53F",
+        "render_distance_type": "render"
+      }
+    },
+    "volumetric": {
+        "henyey_greenstein_g": {
+        "air": {
+          "henyey_greenstein_g": 0.4
+      },
+      "water":{
+        "henyey_greenstein_g": 0.3
+      }
+      },
+      "density": {
+        "air": {
+          "max_density": 0.025,  
+          "uniform": true
+        },
+        "water": {
+          "max_density": 0.009,
+          "uniform": true
+        },
+        "weather": {
+          "max_density": 0.02,  
+          "uniform": true
+        }
+      },
+      "media_coefficients": {
+        "air": {
+          "scattering": [0.085, 0.095, 0.085],
+          "absorption": [0.06, 0.002, 0.035]
+        },
+        "cloud": {
+          "scattering": [0, 0, 0],
+          "absorption": [0, 0, 0]
+        },
+           "water": {
+          "scattering": [0.035, 0.05, 0.03],
+          "absorption": [0.04, 0.002, 0.045]
+      }
+    }
+  }
+}
+}

@@ -1,0 +1,43 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A deferred pack aiming to improve the visuals of Minecraft",
+        "name": "Odyssey Deferred v1.6 in-dev",
+        "uuid": "d6d46de3-7e01-43f3-8b3b-62143db11a59",
+        "version": [1, 5, 1],
+        "min_engine_version": [1, 20, 20]
+    },
+    "modules": [
+        {
+            "description": "This pack stays true to Minecraft and improves upon it for stunning visuals!",
+            "type": "resources",
+            "uuid": "4b99adde-126c-473e-a5bf-67c5e642ea18",
+            "version": [1, 5, 1]
+        }
+    ],
+    "subpacks": [
+      {
+        "folder_name": "nopbr",
+        "name": "NON-PBR/Compatibility mode",
+        "memory_tier": 0
+      },
+      {
+        "folder_name": "default",
+        "name": "The default look of the pack",
+        "memory_tier": 0
+      }        
+    ],
+    "settings": [
+      {
+        "type": "label",
+        "text": "❐ Default: The normal look for Odyssey with PBR textures that are custom made for the pack."
+      },
+      {
+        "type": "label",
+        "text": "❐ NON-PBR/Compatibility: A version of the pack that doesnt have the custom PBR but will use textures from other packs that are below Odyssey or the default PBR from regular Vibrant Visuals"
+      }
+    ],
+    "capabilities" : [
+      "pbr"
+    ]
+}

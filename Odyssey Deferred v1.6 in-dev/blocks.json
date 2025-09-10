@@ -1,0 +1,32 @@
+{
+   "format_version": [1,1,0],
+   "dirt" : {
+      "isotropic" : false,
+      "sound" : "gravel",
+      "textures" : "dirt"
+   },
+   "dirt_with_roots" : {
+      "isotropic" : false,
+      "sound" : "dirt_with_roots",
+      "textures" : "dirt_with_roots"
+   },
+   "snow" : {
+      "ambient_occlusion_exponent" : 1.0,
+      "isotropic" : false,
+      "sound" : "snow",
+      "textures" : "snow"
+   },
+   "snow_layer" : {
+      "ambient_occlusion_exponent" : 1.0,
+      "isotropic" : false,
+      "sound" : "snow",
+      "textures" : "snow"
+   },
+   "obsidian" : {
+      "brightness_gamma" : 2.0,
+      "isotropic" : false,
+      "sound" : "stone",
+      "textures" : "obsidian"
+   }
+}
+

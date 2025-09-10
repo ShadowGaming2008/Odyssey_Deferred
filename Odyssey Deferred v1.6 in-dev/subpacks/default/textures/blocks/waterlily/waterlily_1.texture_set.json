@@ -1,0 +1,8 @@
+{
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+      "color": "waterlily_1",
+      "metalness_emissive_roughness_subsurface": "waterlily_1_mer",
+      "heightmap":"waterlily_1_h"
+    }
+  }

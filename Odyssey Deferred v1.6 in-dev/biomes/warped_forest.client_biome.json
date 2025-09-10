@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "warped_forest"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#3eb87b"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "am:warped_fog"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "am:warped_light"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#C5543E"
+      },
+      "minecraft:color_grading_identifier": {
+        "color_grading_identifier": "am:nether_color_grading"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "am:warped_at"
+      }
+    }
+  }
+}

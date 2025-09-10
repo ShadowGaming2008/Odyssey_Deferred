@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "basalt_deltas"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#70A1DB"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "am:basalt_fog"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "am:basalt_light"
+      },
+      "minecraft:color_grading_identifier": {
+        "color_grading_identifier": "am:nether_color_grading"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "am:basalt_at"
+      }
+    }
+  }
+}

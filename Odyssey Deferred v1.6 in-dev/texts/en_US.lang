@@ -1,0 +1,3 @@
+options.dev_enableDebugHudOverlay=Enable Debug HUD
+options.dev_enableDebugHudOverlay.off=Visible
+options.dev_enableDebugHudOverlay.basic=Hidden

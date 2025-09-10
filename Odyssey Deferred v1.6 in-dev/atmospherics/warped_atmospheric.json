@@ -1,0 +1,42 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:atmosphere_settings": {
+  "description": {
+    "identifier": "am:warped_at"
+},
+"sky_zenith_color": {
+        "0.000000": "#3a9694"
+  
+      },
+      "sky_horizon_color": {
+        "0.000000": "#3a9694"
+
+      }
+    },
+    "rayleigh_strength": {
+      "0.000000": 0.4
+    },
+    "sun_mie_strength": {
+      "0.000000": 21.0
+    },
+    "moon_mie_strength": {
+      "0.000000": 0
+    },
+    "sun_glare_shape": {
+      "0.000000": 5
+    },
+    "horizon_blend_stops": {
+      "min": {
+        "0.000000": 0.518
+      },
+      "start": {
+        "0.000000": 0.37
+      },
+      "mie_start": {
+        "0.000000": 0.11
+      },
+      "max": {
+        "0.000000": 0.41
+      }
+}
+}

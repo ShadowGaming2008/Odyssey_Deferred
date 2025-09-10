@@ -1,0 +1,22 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "desert"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#a89166"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "am:sandfog"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#B39F6C"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "am:desert_light"
+      }
+    }
+  }
+}

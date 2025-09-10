@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "taiga"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#70A1DB"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "am:sprucefog"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#77B8E9"
+      },
+      "minecraft:dry_foliage_color": {
+        "color": "#405C46"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "am:taiga_light"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "format_version": "1.21.80",
+  "minecraft:lighting_settings": {
+    "description": {
+      "identifier": "am:soulsand_light"
+    },
+    "directional_lights": {
+      "orbital": {
+        "sun": {
+        "illuminance": {
+          "0.000000": 30
+        },
+        "color": {
+          "0.000000": "#2D7DA4"
+        }
+      },
+      "moon": {
+        "illuminance": {
+        "0.0": 30
+        },
+        "color": {
+          "0.000000": "#2D7DA4"
+        }
+      },
+      "orbital_offset_degrees": 3
+    },
+    "flash": {
+      "illuminance": 10,
+      "color": [158, 25, 226]
+    }
+  },
+    "emissive": {
+      "desaturation": 0.002
+    },
+    "ambient": {
+      "color": "#275A73",
+      "illuminance": 2.2
+    },
+    "sky": {
+      "intensity": 0.7
+    }
+  }
+}

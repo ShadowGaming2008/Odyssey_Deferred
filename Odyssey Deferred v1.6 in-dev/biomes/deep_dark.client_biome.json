@@ -1,0 +1,19 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "deep_dark"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "am:deepdark_fog"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#3C91D8"
+      },
+      "minecraft:sky_color": {
+        "sky_color": "#0b1849"
+      }
+    }
+  }
+}
