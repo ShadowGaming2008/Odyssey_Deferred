@@ -6,7 +6,7 @@
     },
     "distance": {
       "air": {
-        "fog_start": 0.8,
+        "fog_start": 0.9,
         "fog_end": 1.0,
         "fog_color": "#E848E0",
         "render_distance_type": "render"
@@ -35,7 +35,7 @@
       },
       "density": {
         "air": {
-          "max_density": 0.02,
+          "max_density": 0.03,
           "uniform": true
       },
       "water": {

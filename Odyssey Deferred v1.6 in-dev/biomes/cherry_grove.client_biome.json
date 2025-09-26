@@ -6,19 +6,13 @@
     },
     "components": {
       "minecraft:sky_color": {
-        "sky_color": "#7d4f62"
+        "sky_color": "#70A1DB"
       },
       "minecraft:fog_appearance": {
         "fog_identifier": "am:cherryfog"
       },
       "minecraft:water_appearance": {
         "surface_color": "#3C91D8"
-      },
-      "minecraft:foliage_appearance": {
-        "color": "#619961"
-      },
-      "minecraft:grass_appearance": {
-        "color": "#619961"
       },
       "minecraft:lighting_identifier": {
         "lighting_identifier": "am:cherry_light"
