@@ -14,7 +14,7 @@
       },
       "highlights": {
         "enabled":true,
-        "highlightsMin":20,
+        "highlightsMin":4,
         "contrast": [1.2, 1.2, 1.2],
         "gain": [1.2, 1.2, 1.2],
         "gamma": [2.2, 2.2, 2.2],
