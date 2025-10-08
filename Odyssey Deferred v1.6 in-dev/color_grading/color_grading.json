@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.90",
   "minecraft:color_grading_settings": {
     "description": {
       "identifier": "am:color_grading"
@@ -29,6 +29,11 @@
         "gamma": [2.3, 2.3, 2.3],
         "offset": [0, 0, 0],
         "saturation": [1.03, 1.05, 1.05]
+      },
+      "temperature": {
+        "enabled": false,
+        "temperature": 5850,
+        "type": "color_temperature"
       }
       },
     "tone_mapping": {
