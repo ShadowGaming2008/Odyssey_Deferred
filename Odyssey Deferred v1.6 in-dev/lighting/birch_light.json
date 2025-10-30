@@ -82,11 +82,11 @@
       "desaturation": 0.09
     },
     "ambient": {
-      "color": "#1E1E1E",
+      "color": "#212121",
       "illuminance": 0.1
     },
     "sky": {
-      "intensity": 0.2
+      "intensity": 0.22
     }
   }
 }
