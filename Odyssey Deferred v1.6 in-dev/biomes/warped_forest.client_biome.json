@@ -6,7 +6,7 @@
     },
     "components": {
       "minecraft:sky_color": {
-        "sky_color": "#3eb87b"
+        "sky_color": "#94bdf0"
       },
       "minecraft:fog_appearance": {
         "fog_identifier": "am:warped_fog"
