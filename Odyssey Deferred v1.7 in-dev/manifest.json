@@ -18,25 +18,26 @@
     "subpacks": [
       {
         "folder_name": "nopbr",
-        "name": "NON-PBR/Compatibility mode",
+        "name": "§2§NON-PBR/Compatibility mode§r",
+        "memory_tier": 0
+      },
+     {
+        "folder_name": "newpbr",
+        "name": "§eNew PBR§r",
         "memory_tier": 0
       },
       {
         "folder_name": "default",
-        "name": "The default look of the pack",
+        "name": "§aDefault Experience§r",
         "memory_tier": 0
       }        
     ],
     "settings": [
       {
         "type": "label",
-        "text": "❐ Default: The normal look for Odyssey with PBR textures that are custom made for the pack."
-      },
-      {
-        "type": "label",
-        "text": "❐ NON-PBR/Compatibility: A version of the pack that doesnt have the custom PBR but will use textures from other packs that are below Odyssey or the default PBR from regular Vibrant Visuals"
-      }
-    ],
+        "text": "❐ §aDefault Experience§r: The normal look for Odyssey with custom PBR and textures, this is the intended way to enjoy Odyssey.\n\n❐ §eNew PBR§r: This version of the pack includes brand new PBR and improved vanilla textures. [ This is still in a early stage and not complete].\n\n❐ §2§lNON-PBR/Compatibility§r: This version of Odyssey doesn't have the custom PBR or textures but uses the default PBR/textures from vanilla. When this is selected, the game will use textures from any pack under Odyssey.\n\n\nJOIN OUR DISCORD: §1https://discord.gg/yx6pPXEk§r"
+        }
+      ],
     "capabilities" : [
       "pbr"
     ]
