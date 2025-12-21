@@ -27,7 +27,7 @@
       "volumetric": {
         "density": {
           "air": {
-            "max_density": 0.0355,
+            "max_density": 0.043,
             "uniform": true
           },
           "water": {
@@ -55,7 +55,7 @@
         },
               "henyey_greenstein_g": {
         "air": {
-          "henyey_greenstein_g": 0.5
+          "henyey_greenstein_g": 0.2
         },
         "water":{
            "henyey_greenstein_g": 0.22
