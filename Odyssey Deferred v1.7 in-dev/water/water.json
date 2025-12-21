@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.120",
+  "format_version": "1.26.0",
   "minecraft:water_settings": {
     "description": {
       "identifier": "am:water"
@@ -28,6 +28,7 @@
       "speed_scaling": 1.07,
       "direction_increment": 100,
       "shape": 3.835
+    },
+      "biome_water_color_contribution": 0.02
     }
-  }
 }
