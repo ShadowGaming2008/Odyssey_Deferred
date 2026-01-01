@@ -1,0 +1,73 @@
+{
+    "format_version": "1.21.120",
+    "minecraft:local_light_settings": {
+        "minecraft:torch": {
+            "light_color": "#54280c",
+            "light_type": "point_light"
+        },
+        "minecraft:lantern": {
+            "light_color": "#54280c",
+            "light_type": "point_light"
+        },
+        "minecraft:soul_torch": {
+            "light_color": "#2c7ea0",
+            "light_type": "point_light"
+        },
+        "minecraft:redstone_torch": {
+            "light_color": "#891106",
+            "light_type": "point_light"
+         },
+        "minecraft:soul_lantern": {
+            "light_color": "#2c7ea0",
+            "light_type": "point_light"
+         },
+        "minecraft:end_rod": {
+            "light_color": "#6c587e",
+            "light_type": "point_light"
+        },
+        "minecraft:brown_mushroom": {
+            "light_color": "#291c09",
+            "light_type": "static_light"
+        },
+        "minecraft:firefly_bush": {
+            "light_color": "#291c09",
+            "light_type": "static_light"
+        },
+        "minecraft:sculk_catalyst": {
+            "light_color": "#0d2334",
+            "light_type": "static_light"
+        },
+        "minecraft:sculk_sensor": {
+            "light_color": "#0d2334",
+            "light_type": "static_light"
+        },
+        "minecraft:crying_obsidian": {
+            "light_color": "#1d0d34",
+            "light_type": "point_light"
+        },
+        "minecraft:lava": {
+            "light_color": "#632f18",
+            "light_type": "static_light"
+        },
+        "minecraft:magma": {
+            "light_color": "#552d0c",
+            "light_type": "static_light"
+        },
+        "minecraft:glow_lichen": {
+            "light_color": "#2a4044",
+            "light_type": "static_light"
+        },
+        "minecraft:end_portal": {
+            "light_color": "#0f0517",
+            "light_type": "static_light"      
+      },
+       "minecraft:campfire": {
+            "light_color": "#54280c",
+            "light_type": "point_light"
+     },
+       "minecraft:soul_campfire": {
+            "light_color": "#2c7ea0",
+            "light_type": "point_light"
+         }
+ }
+}
