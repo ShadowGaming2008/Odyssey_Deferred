@@ -1,0 +1,44 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A deferred pack aiming to improve the visuals of Minecraft",
+        "name": "Odyssey Deferred v1.8",
+        "uuid": "30f08d41-7a99-47fb-b243-457a238876ec",
+        "version": [1, 8, 0],
+        "min_engine_version": [1, 20, 20]
+    },
+    "modules": [
+        {
+            "description": "This pack stays true to Minecraft and improves upon it for stunning visuals!",
+            "type": "resources",
+            "uuid": "1c316139-603f-4ee7-940a-87c0ce1460fa",
+            "version": [1, 8, 0]
+        }
+    ],
+    "subpacks": [
+      {
+        "folder_name": "nopbr",
+        "name": "§2§ NON-PBR/Compatibility mode§r",
+        "memory_tier": 0
+      },
+      {
+        "folder_name": "experiment",
+        "name": "§eExperimental PBR§r",
+        "memory_tier": 0
+      },
+     {
+        "folder_name": "default",
+        "name": "§aDefault§r", 
+        "memory_tier": 0
+      }       
+    ],
+    "settings": [
+      {
+        "type": "label",
+        "text": "❐ §aDefault Experience§r: The normal look for Odyssey with custom PBR and textures including vanilla+ texture and texture variants, this is the intended way to enjoy Odyssey.\n\n❐ §eExperimental PBR§r: This version of the pack includes brand new PBR the mixed both heightmaps and normal maps. [ This is still in a early stage and not complete].\n\n❐ §2§lNON-PBR/Compatibility§r: This version of Odyssey doesn't have the custom PBR or textures but uses the default PBR/textures from vanilla. When this is selected, the game will use textures from any pack under Odyssey.\n\n\nJOIN OUR DISCORD: §1https://discord.gg/yx6pPXEk§r"
+        }
+      ],
+    "capabilities" : [
+      "pbr"
+    ]
+}
