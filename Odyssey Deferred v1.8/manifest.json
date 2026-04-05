@@ -21,11 +21,6 @@
         "name": "§2§ NON-PBR/Compatibility mode§r",
         "memory_tier": 0
       },
-      {
-        "folder_name": "experiment",
-        "name": "§eExperimental PBR§r",
-        "memory_tier": 0
-      },
      {
         "folder_name": "default",
         "name": "§aDefault§r", 
@@ -35,7 +30,7 @@
     "settings": [
       {
         "type": "label",
-        "text": "❐ §aDefault Experience§r: The normal look for Odyssey with custom PBR and textures including vanilla+ texture and texture variants, this is the intended way to enjoy Odyssey.\n\n❐ §eExperimental PBR§r: This version of the pack includes brand new PBR the mixed both heightmaps and normal maps. [ This is still in a early stage and not complete].\n\n❐ §2§lNON-PBR/Compatibility§r: This version of Odyssey doesn't have the custom PBR or textures but uses the default PBR/textures from vanilla. When this is selected, the game will use textures from any pack under Odyssey.\n\n\nJOIN OUR DISCORD: §1https://discord.gg/yx6pPXEk§r"
+        "text": "❐ §aDefault Experience§r: The normal look for Odyssey with custom PBR and textures including vanilla+ texture and texture variants, this is the intended way to enjoy Odyssey.\n\n❐ §2§lNON-PBR/Compatibility§r: This version of Odyssey doesn't have the custom PBR or textures but uses the default PBR/textures from vanilla. When this is selected, the game will use textures from any pack under Odyssey.\n\n\nJOIN OUR DISCORD: §1https://discord.gg/yx6pPXEk§r"
         }
       ],
     "capabilities" : [
