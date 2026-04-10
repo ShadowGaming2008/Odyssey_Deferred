@@ -18,13 +18,13 @@
     },
     "waves": {
       "enabled": true,
-      "frequency": 0.6020199998207391,
+      "frequency": 0.65,
       "octaves": 13,
-      "depth": 0.423,
+      "depth": 0.3,
       "speed": 4.115889999868348,
       "pull": -1,
       "mix": 0.109,
-      "frequency_scaling": 1.042,
+      "frequency_scaling": 1.05,
       "speed_scaling": 0.9580000000000001,
       "direction_increment": 93.6,
       "shape": 3.952

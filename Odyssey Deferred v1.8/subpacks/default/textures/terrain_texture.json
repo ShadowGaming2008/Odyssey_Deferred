@@ -82,7 +82,8 @@
           {"path": "textures/blocks/grass_top/1", "weight": 40},
           {"path": "textures/blocks/grass_top/2", "weight": 10},
           {"path": "textures/blocks/grass_top/3", "weight": 2},
-          {"path": "textures/blocks/grass_top/4", "weight": 5}
+          {"path": "textures/blocks/grass_top/4", "weight": 5},
+          {"path": "textures/blocks/grass_top/5", "weight": 2}
             ]
         }
     },
