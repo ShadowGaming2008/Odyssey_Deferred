@@ -261,11 +261,11 @@
             "light_type": "point_light"
         },
         "minecraft:end_portal": {
-            "light_color": "#0F0F0F",
+            "light_color": "#0b0911",
             "light_type": "static_light"
         },
         "minecraft:end_gateway": {
-            "light_color": "#0F0F0F",
+            "light_color": "#0b0911",
             "light_type": "static_light"
         },
 
@@ -409,11 +409,15 @@
             "light_type": "static_light"
         },
         "minecraft:vault": {
-            "light_color": "#3a2808",
+            "light_color": "#241104",
             "light_type": "static_light"
         },
         "minecraft:ender_chest": {
             "light_color": "#0d1a20",
+            "light_type": "static_light"
+        },
+        "minecraft:cauldron": {
+            "light_color": "#632f18",
             "light_type": "static_light"
         },
         "minecraft:light_block": {
