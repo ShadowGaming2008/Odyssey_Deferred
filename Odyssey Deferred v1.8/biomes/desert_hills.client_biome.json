@@ -16,6 +16,9 @@
       },
       "minecraft:lighting_identifier": {
         "lighting_identifier": "am:desert_light"
+      },
+          "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "am:desert_atmospherics"
       }
     }
   }

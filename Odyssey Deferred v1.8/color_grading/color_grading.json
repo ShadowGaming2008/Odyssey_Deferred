@@ -7,9 +7,9 @@
     "color_grading": {
       "midtones": {
         "midtonesMax": 60,
-        "contrast": [1.45, 1.45, 1.45],
-        "gain": [1.05, 1.05, 1.05],
-        "gamma": [2.2, 2.2, 2.2],
+        "contrast": [1.4, 1.4, 1.4],
+        "gain": [1.035, 1.035, 1.035],
+        "gamma": [2.1, 2.1, 2.1],
         "offset": [0, 0, 0],
         "saturation": [1.085, 1.085, 1.085]
       },
