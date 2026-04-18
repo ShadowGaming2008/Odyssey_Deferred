@@ -1,0 +1,54 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "am:darkoak"
+    },
+    "distance": {
+      "air": {
+        "fog_start": 0.45,
+        "fog_end": 1.0,
+        "fog_color": "#FBF0D5",
+        "render_distance_type": "render"
+      },
+      "water": {
+        "fog_start": 0.0,
+        "fog_end": 160.0,
+        "fog_color": "#2EA1C9",
+        "render_distance_type": "fixed"
+      },
+      "weather": {
+        "fog_start": 0.20,
+        "fog_end": 0.7,
+        "fog_color": "#ECE5D4",
+        "render_distance_type": "render"
+      }
+    },
+    "volumetric": {
+      "density": {
+"air": {
+            "max_density": 0.08,
+            "uniform": true
+          },
+          "water": {
+            "max_density": 0.009,
+            "uniform": true
+          },
+          "weather":{
+            "max_density": 0.02,
+            "uniform": true
+          }
+        },
+        "media_coefficients": {
+          "air": {
+            "scattering": [ 0.084, 0.076, 0.074],
+          "absorption": [0.005, 0.007, 0.03]
+      },
+      "water": {
+        "scattering": [ 0.032, 0.034, 0.036],
+      "absorption": [0.7, 0.65, 0.2]
+        }
+     }
+   }
+ }
+}
