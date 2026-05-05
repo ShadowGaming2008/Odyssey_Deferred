@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.90",
+  "format_version": "1.26.20",
   "minecraft:fog_settings": {
     "description": {
       "identifier": "am:snowfog"
@@ -27,7 +27,13 @@
     "volumetric": {
               "henyey_greenstein_g": {
         "air": {
-          "henyey_greenstein_g": 0.3
+          "henyey_greenstein_g":{
+           "0.0": 0.35,
+           "0.23": 0.3,
+           "0.5": 0.25,
+           "0.75": 0.3,
+           "1.0": 0.3
+          }
       },
       "water":{
         "henyey_greenstein_g": 0.3
@@ -35,7 +41,13 @@
       },
       "density": {
         "air": {
-          "max_density": 0.045,
+          "max_density":{
+           "0.0": 0.035,
+           "0.23": 0.045,
+           "0.5": 0.05,
+           "0.75": 0.045,
+           "1.0": 0.033
+          },
           "uniform": true
         },
         "water": {

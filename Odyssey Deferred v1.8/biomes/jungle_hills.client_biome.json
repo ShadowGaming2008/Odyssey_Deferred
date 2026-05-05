@@ -19,6 +19,9 @@
       },
       "minecraft:lighting_identifier": {
         "lighting_identifier": "am:jungle_light"
+      },
+          "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "am:jungle_atmospherics"
       }
     }
   }

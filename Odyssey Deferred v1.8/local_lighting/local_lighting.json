@@ -86,11 +86,11 @@
             "light_type": "point_light"
         },
         "minecraft:black_candle": {
-            "light_color": "#2a2015",
+            "light_color": "#3B3B3D",
             "light_type": "point_light"
         },
         "minecraft:brown_candle": {
-            "light_color": "#6b3a1f",
+            "light_color": "#805024",
             "light_type": "point_light"
         },
         "minecraft:red_candle": {
@@ -114,7 +114,7 @@
             "light_type": "point_light"
         },
         "minecraft:cyan_candle": {
-            "light_color": "#1a7878",
+            "light_color": "#27AB9E",
             "light_type": "point_light"
         },
         "minecraft:light_blue_candle": {
@@ -122,19 +122,19 @@
             "light_type": "point_light"
         },
         "minecraft:blue_candle": {
-            "light_color": "#1c2a8c",
+            "light_color": "#2132B0",
             "light_type": "point_light"
         },
         "minecraft:purple_candle": {
-            "light_color": "#5c1e8c",
+            "light_color": "#7822BA",
             "light_type": "point_light"
         },
         "minecraft:magenta_candle": {
-            "light_color": "#a030a0",
+            "light_color": "#C73EC7",
             "light_type": "point_light"
         },
         "minecraft:pink_candle": {
-            "light_color": "#c85878",
+            "light_color": "#F0658D",
             "light_type": "point_light"
         },
 
@@ -293,7 +293,7 @@
             "light_type": "static_light"
         },
         "minecraft:portal": {
-            "light_color": "#1d0d34",
+            "light_color": "#2E1552",
             "light_type": "static_light"
         },
         "minecraft:respawn_anchor": {
@@ -405,7 +405,7 @@
             "light_type": "static_light"
         },
         "minecraft:enchanting_table": {
-            "light_color": "#0a0820",
+            "light_color": "#1F1140",
             "light_type": "static_light"
         },
         "minecraft:vault": {
@@ -413,7 +413,7 @@
             "light_type": "static_light"
         },
         "minecraft:ender_chest": {
-            "light_color": "#0d1a20",
+            "light_color": "#266149",
             "light_type": "static_light"
         },
         "minecraft:cauldron": {

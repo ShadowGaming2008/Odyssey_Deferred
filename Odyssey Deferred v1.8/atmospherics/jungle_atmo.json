@@ -2,7 +2,7 @@
   "format_version": "1.26.20",
   "minecraft:atmosphere_settings": {
     "description": {
-      "identifier": "am:desert_atmospherics"
+      "identifier": "am:jungle_atmospherics"
     },
     "horizon_blend_stops": {
       "min": {
@@ -89,13 +89,13 @@
       "0.81": 4
     },
     "sky_zenith_color": {
-      "0.000000": "#328DD1",
-      "0.199685": "#328DD1",
+      "0.000000": "#3274A6",
+      "0.199685": "#3274A6",
       "0.217114": "#809AC4",
       "0.322560": "#275a97",
       "0.644880": "#275a97",
       "0.728744": "#809AC4",
-      "0.830315": "#328DD1"
+      "0.830315": "#3274A6"
     },
     "sky_horizon_color": {
       "0.000000": "#A8D2F7",

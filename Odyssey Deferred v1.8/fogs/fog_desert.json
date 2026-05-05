@@ -6,7 +6,7 @@
     },
     "distance": {
       "air": {
-        "fog_start": 0.6,
+        "fog_start": 0.7,
         "fog_end": 1.0,
         "fog_color": "#DEA257",
         "render_distance_type": "render"
@@ -27,7 +27,7 @@
     "volumetric": {
         "henyey_greenstein_g": {
         "air": {
-          "henyey_greenstein_g": 0.4
+          "henyey_greenstein_g": 0.45
       },
       "water":{
         "henyey_greenstein_g": 0.3
@@ -35,7 +35,7 @@
       },
       "density": {
         "air": {
-          "max_density": 0.046,
+          "max_density": 0.03,
           "uniform": true
         }
       },

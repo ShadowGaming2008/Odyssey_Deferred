@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.80",
+    "format_version": "1.26.0",
   "minecraft:lighting_settings": {
     "description": {
       "identifier": "am:savanna_light"
@@ -73,7 +73,12 @@
       "illuminance": 0.28
     },
     "sky": {
-      "intensity": 0.3
+      "intensity": {
+        "0.0": 0.3,
+        "0.20": 0.27,
+        "0.80": 0.27,
+        "1.0": 0.3
+      }
     }
   }
 }

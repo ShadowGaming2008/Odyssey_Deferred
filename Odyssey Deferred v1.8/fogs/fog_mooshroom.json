@@ -1,12 +1,12 @@
 {
-  "format_version": "1.21.0",
+  "format_version": "1.21.90",
   "minecraft:fog_settings": {
     "description": {
       "identifier": "am:mooshroom"
     },
     "distance": {
       "air": {
-        "fog_start": 0.4,
+        "fog_start": 0.7,
         "fog_end": 1.0,
         "fog_color": "#816D81",  
         "render_distance_type": "render"
@@ -27,7 +27,7 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.06,
+          "max_density": 0.03,
           "uniform": true
         },
         "water": {
@@ -43,7 +43,7 @@
       },
       "media_coefficients": {
         "air": {
-          "scattering": [0.07, 0.04, 0.07],
+          "scattering": [0.09, 0.06, 0.09],
           "absorption": [0.01, 0.04, 0.01]
         },
         "water": {
@@ -53,9 +53,17 @@
         "cloud": {
           "scattering": [0, 0, 0],
           "absorption": [0, 0, 0]
+          }
+        },
+              "henyey_greenstein_g": {
+        "air": {
+          "henyey_greenstein_g": 0.475
+        },
+        "water":{
+           "henyey_greenstein_g": 0.15
         }
       }
-    } 
+    }
   }
 }
 

@@ -35,7 +35,7 @@
       },
       "density": {
         "air": {
-          "max_density": 0.028,  
+          "max_density": 0.025,  
           "uniform": true
         },
         "water": {
