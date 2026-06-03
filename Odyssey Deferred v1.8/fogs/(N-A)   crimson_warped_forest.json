@@ -2,25 +2,25 @@
   "format_version": "1.21.90",
   "minecraft:fog_settings": {
     "description": {
-      "identifier": "am:soulsand_fog"
+      "identifier": "am:crimson_fog"
     },
     "distance": {
       "air": {
         "fog_start": 0.0,
         "fog_end": 1.0,
-        "fog_color": "#54c1c4",
+        "fog_color": "#5ec4b6",
         "render_distance_type": "render"
       },
       "water": {
         "fog_start": 0.04,
         "fog_end": 160.0,
-        "fog_color": "#54c1c4",
+        "fog_color": "#5ec4b6",
         "render_distance_type": "fixed"
       },
       "weather": {
         "fog_start": 0.2,
         "fog_end": 0.7,
-        "fog_color": "#54c1c4",
+        "fog_color": "#5ec4b6",
         "render_distance_type": "render"
       }
     },
@@ -42,7 +42,7 @@
       "media_coefficients": {
         "air": {
           "scattering": [0.09, 0.09, 0.09],
-          "absorption": [0.09, 0.02, 0.01]
+          "absorption": [0.09, 0.014, 0.0135]
         }
       }
     }

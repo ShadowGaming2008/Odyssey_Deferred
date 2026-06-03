@@ -35,13 +35,13 @@
       },
       "density": {
         "air": {
-          "max_density": 0.045,
+          "max_density": 0.0385,
           "uniform": true
         }
       },
       "media_coefficients": {
         "air": {
-          "scattering": [0.1, 0.1, 0.1],
+          "scattering": [0.09, 0.09, 0.09],
           "absorption": [0.09, 0.014, 0.0135]
         }
       }

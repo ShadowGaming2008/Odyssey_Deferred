@@ -16,6 +16,9 @@
       },
       "minecraft:lighting_identifier": {
         "lighting_identifier": "am:snow_light"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "am:default_atmospherics"
       }
     }
   }

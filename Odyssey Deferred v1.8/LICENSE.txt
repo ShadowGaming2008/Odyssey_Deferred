@@ -1,0 +1,55 @@
+================================================================
+        VIBRANT VISUALS - RESOURCE PACK LICENSE
+================================================================
+Copyright (c) 2026 Shadow
+All Rights Reserved.
+
+----------------------------------------------------------------
+PERMITTED USES
+----------------------------------------------------------------
+- You MAY use this pack in your own Minecraft worlds for
+  personal use.
+
+- You MAY showcase, review, or create content featuring this
+  pack (YouTube, TikTok, Twitch, etc.) PROVIDED that you
+  include at least ONE of the following in your
+  video description or post:
+
+    > MCPEDL:     https://mcpedl.com/odyssey/
+    > CurseForge: https://www.curseforge.com/minecraft-bedrock/texture-packs/odyssey
+    > Planet Minecraft: https://www.planetminecraft.com/texture-pack/odyssey-deferred/
+    > Discord:    https://discord.gg/U3nshFZBr4
+
+----------------------------------------------------------------
+PROHIBITED USES
+----------------------------------------------------------------
+- You MAY NOT redistribute, reupload, or share this pack
+  on any third-party website, platform, Discord server,
+  or file host — with or without modifications.
+
+- You MAY NOT claim this pack or any of its contents
+  (textures, files, assets) as your own work.
+
+- You MAY NOT use the textures or assets from this pack
+  in another resource pack without explicit written
+  permission from the creator.
+
+- You MAY NOT sell, monetize, or include this pack in any
+  paid content without explicit written permission.
+
+----------------------------------------------------------------
+ENFORCEMENT
+----------------------------------------------------------------
+This pack is protected under international copyright law
+(Berne Convention). Unauthorized redistribution or claiming
+of this work may result in DMCA takedowns and/or legal action.
+
+To report unauthorized use or request special permission,
+contact: https://discord.gg/U3nshFZBr4
+
+================================================================
+The only official download sources for this pack are:
+  - MCPEDL:     https://mcpedl.com/odyssey/
+  - CurseForge: https://www.curseforge.com/minecraft-bedrock/texture-packs/odyssey
+  - Planet Minecraft: https://www.planetminecraft.com/texture-pack/odyssey-deferred/
+================================================================

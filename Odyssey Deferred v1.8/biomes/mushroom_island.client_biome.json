@@ -19,7 +19,11 @@
       },
       "minecraft:grass_appearance": {
         "color": "#B7A3B0"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "am:default_atmospherics"
       }
     }
   }
 }
+
