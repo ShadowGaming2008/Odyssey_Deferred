@@ -1,0 +1,21 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Odyssey Visuals — a Vibrant Visuals pack that transforms Minecraft with stunning, true-to-vanilla visuals.",
+        "name": "Odyssey Visuals v2.0",
+        "uuid": "d8c8616d-bc6f-40d0-a8bc-0485e1cddb1c",
+        "version": [2, 0, 0],
+        "min_engine_version": [1, 26, 20]
+    },
+    "modules": [
+        {
+            "description": "Odyssey Visuals enhances Minecraft with beautiful PBR materials and carefully crafted textures, staying true to the vanilla experience.",
+            "type": "resources",
+            "uuid": "b711a921-48f4-4218-931b-a2fb1c4fbeb9",
+            "version": [2, 0, 0]
+        }
+    ],
+    "capabilities": [
+      "pbr"
+    ]
+}
