@@ -53,3 +53,5 @@ The only official download sources for this pack are:
   - CurseForge: https://www.curseforge.com/minecraft-bedrock/texture-packs/odyssey
   - Planet Minecraft: https://www.planetminecraft.com/texture-pack/odyssey-deferred/
 ================================================================
+
+:)
