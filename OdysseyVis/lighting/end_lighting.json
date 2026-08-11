@@ -1,0 +1,37 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:lighting_settings": {
+      "description": {
+          "identifier": "am:end_li"
+      },
+      "directional_lights": {
+          "orbital": {
+              "sun": {
+                  "illuminance": {
+                      "0.0": 100
+                  },
+                  "color": "#9d5dfc"
+              },
+              "moon": { 
+                  "illuminance": 100,
+                  "color": "#9d5dfc"
+              }, 
+              "orbital_offset_degrees": 3
+          },
+          "flash": {
+              "illuminance": 5,
+              "color": "#9d5dfc"
+          }
+      },
+      "emissive": {
+          "desaturation": 0.09
+      },
+      "ambient": {
+          "illuminance": 0.5,
+          "color": "#552d8c"
+      },
+      "sky": {
+          "intensity": 0.4
+      }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "birch_forest_mutated"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#94bdf0"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "am:generalfog"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#77B8E9"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "am:default_atmospherics"
+      }
+    }
+  }
+}

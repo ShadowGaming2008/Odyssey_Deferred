@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "minecraft:sulfur_caves"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "am:plains"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#34BF89"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "am:global"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "am:default_atmospherics"
+      }
+    }
+  }
+}
+
